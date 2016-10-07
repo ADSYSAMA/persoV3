@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Adam";
+    src: url('Adam.otf');
+}
+
+body {
+	background-image: url(images/bg.jpg);
+	font-family: "Adam";
+	color: white;
+}	
+
+h1, h2, .social {
+	text-align: center;
+	opacity: 0.8;
+}
+
+h1 {
+	font-size: 75px;
+	margin-top: -195px;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+.social {
+	margin-top: 140px;
+}
+
+.mail {
+	display: block;
+	text-align: center;
+	font-size: 24px;
+	color: white;
+	opacity: 0.6;
+	margin-top: 8px;
+}
